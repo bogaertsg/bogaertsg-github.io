@@ -119,3 +119,21 @@ Go to your repositories on GitHub.
     bundle exec jekyll serve
     ```
     ![local]({{ site.url }}/assets/local.png)
+
+10. Commit changes locally
+    
+    Go back to GitHub desktop and identify you local changes.
+    ![changes]({{ site.url }}/assets/changes.png)
+
+    Enter description and commit your changes
+
+    ![commit]({{ site.url }}/assets/commit.png)
+11. Push changes
+    ![push]({{ site.url }}/assets/push.png)
+
+## View your site on GitHub
+Go to settings from your GitHub repository.
+    ![settings]({{ site.url }}/assets/settings.png)
+
+Go to your personal blog site.
+    ![site]({{ site.url }}/assets/site.png)
