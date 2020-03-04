@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Glenn Bogaerts - Data Intelligence Consultant at Cegeka
+Glenn Bogaerts - Data Intelligence Consultant
 
 You can find the source code at GitHub:
 [BogaertsG](https://github.com/BogaertsG)
